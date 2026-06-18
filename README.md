@@ -1,28 +1,48 @@
-# smart-production-control-room
 # 🏭 Smart Production Control Room
 
 Dashboard industrial desenvolvido em Python e Streamlit para monitoramento de produção em tempo real.
 
-## Funcionalidades
+## 📋 Funcionalidades
 
-- Monitoramento de robôs XR
-- Controle de ocorrências
-- Gestão de downtime
-- Simulação de falhas automáticas
-- Indicadores KPI
-- Meta mensal
-- Produção diária
-- Histórico de eventos
-- Exportação CSV
+* Monitoramento dos robôs XR
+* Controle de ocorrências em tempo real
+* Gestão de downtime
+* Simulação automática de falhas
+* Indicadores de desempenho (KPIs)
+* Controle de produção diária
+* Acompanhamento de meta mensal
+* Histórico de eventos
+* Exportação de dados CSV
 
-## Tecnologias
+## 📊 Indicadores Monitorados
 
-- Python
-- Streamlit
-- Pandas
-- Git
-- GitHub
+* Produção Total
+* Robôs Operando
+* Robôs Parados
+* Robôs em Manutenção
+* Eficiência da Linha
+* Downtime Acumulado
+* Paradas por Categoria
+* Produção Mensal
 
-## Desenvolvido por
+## 🛠️ Tecnologias Utilizadas
+
+* Python
+* Streamlit
+* Pandas
+* Git
+* GitHub
+
+## 🚀 Como Executar
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 👩‍💻 Desenvolvido por
 
 Natalia Souza
+
+Engenharia de Software | Automação Industrial | Python | Dados
+
