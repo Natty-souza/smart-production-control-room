@@ -1,3 +1,4 @@
+
 # 🏭 Smart Production Control Room
 
 Dashboard industrial desenvolvido em Python e Streamlit para monitoramento de produção em tempo real.
@@ -9,30 +10,23 @@ Dashboard industrial desenvolvido em Python e Streamlit para monitoramento de pr
 ### Visão Geral
 
 ![Dashboard](images/dashboard1.png)
--<img width="914" height="340" alt="Captura de tela 2026-06-18 005702" src="https://github.com/user-attachments/assets/db201e9f-1148-4025-b65b-47f0867da7af" />
 
-
-### Produção e Indicadores
+---<img width="834" height="354" alt="Captura de tela 2026-06-18 005809" src="https://github.com/user-attachments/assets/f6e36d89-e7b2-4a09-b9c5-36a77c30ae2e" />
 
 
 ### Eventos e Ocorrências
 
 ![Eventos](images/dashboard2.png)
 
----<img width="1280" height="443" alt="Captura de tela 2026-06-18 135018" src="https://github.com/user-attachments/assets/47ba0714-b55f-4d65-bb51-020f93b2c445" />
-
-<img width="870" height="392" alt="Captura de tela 2026-06-18 005645" src="https://github.com/user-attachments/assets/a18d4d9d-5ecf-4302-9d06-dca14a24f53d" />
-<img width="1249" height="356" alt="Captura de tela 2026-06-18 141618" src="https://github.com/user-attachments/assets/70dee58f-4b4a-4a37-a487-f6130e838e8d" />
-<img width="853" height="366" alt="Captura de tela 2026-06-18 005753" src="https://github.com/user-attachments/assets/429de0a5-0fda-471d-a800-ba84772cad48" />
-
-
+---<img width="853" height="366" alt="Captura de tela 2026-06-18 005753" src="https://github.com/user-attachments/assets/b992e4b7-2b5a-4e7b-95cf-1d4d83bc3ca0" />
+<img width="870" height="392" alt="Captura de tela 2026-06-18 005645" src="https://github.com/user-attachments/assets/6852d029-b514-4e3a-9c9b-d3e0176ebb63" />
 
 
 ### Produção e Indicadores
 
-![Indicadores](images/dashboard3.png)
+<img width="1280" height="443" alt="Captura de tela 2026-06-18 135018" src="https://github.com/user-attachments/assets/18809aa7-2d18-4bb1-9355-7757df29928f" />
+<img width="914" height="340" alt="Captura de tela 2026-06-18 005702" src="https://github.com/user-attachments/assets/abb8ab9d-f05e-4dda-873d-93ee0dc658c5" />
 
----
 
 ## 📋 Funcionalidades
 
@@ -85,6 +79,3 @@ streamlit run app.py
 Natalia Souza
 
 Engenharia de Software | Automação Industrial | Python | Dados
-<img width="870" height="392" alt="Captura de tela 2026-06-18 005645" src="https://github.com/user-attachments/assets/f86055bc-e684-4301-8a6b-e9a4b2357ebd" />
-
-
