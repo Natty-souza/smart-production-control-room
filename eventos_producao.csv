@@ -1,0 +1,73 @@
+﻿data_hora,robo,status,motivo,responsavel,status_chamado
+18/06/2026 00:30:20,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:30,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:30,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:31,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:31,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:31,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:31,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:31,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:32,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:32,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:32,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:32,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:32,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:33,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:33,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:34,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:34,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:35,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:35,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:30:35,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:31:43,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:31:43,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:31:43,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:31:44,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:31:44,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:31:53,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:32:50,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:32:50,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:32:50,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:32:51,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:32:51,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento
+18/06/2026 00:39:12,XR-02,Parado,Falta de material,Logística,Em atendimento
+18/06/2026 00:39:14,XR-02,Parado,Falta de material,Logística,Em atendimento
+18/06/2026 00:39:14,XR-02,Parado,Falta de material,Logística,Em atendimento
+18/06/2026 00:39:16,XR-02,Parado,Falta de material,Logística,Em atendimento
+18/06/2026 00:48:30,XR-04,Operando,Retorno à Operação,Sistema,Resolvido
+18/06/2026 00:48:38,XR-05,Operando,Retorno à Operação,Sistema,Resolvido
+18/06/2026 00:53:22,XR-02,Parado,Falha mecânica,Operação,Alarme Automático
+18/06/2026 00:54:37,XR-03,Parado,Temperatura elevada,Manutenção mecânica,Em atendimento
+18/06/2026 00:55:29,XR-05,Parado,Manutenção preventiva,Manutenção mecânica,Em atendimento
+18/06/2026 01:03:11,XR-01,Operando,Retorno à Operação,Sistema,Resolvido
+18/06/2026 01:03:26,XR-05,Operando,Retorno à Operação,Sistema,Resolvido
+18/06/2026 01:04:02,XR-03,Operando,Retorno à Operação,Sistema,Resolvido
+18/06/2026 01:13:58,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 01:14:41,XR-03,Parado,Falta de material,Logística,Em atendimento,
+18/06/2026 01:15:30,XR-05,Parado,Temperatura elevada,Manutenção mecânica,Em atendimento,
+18/06/2026 01:16:22,XR-04,Parado,Falta de material,Qualidade,Em atendimento,
+18/06/2026 01:17:53,XR-05,Operando,Retorno à Operação,Sistema,Resolvido,00:02:23
+18/06/2026 01:17:58,XR-04,Operando,Retorno à Operação,Sistema,Resolvido,00:01:36
+18/06/2026 01:18:02,XR-03,Operando,Retorno à Operação,Sistema,Resolvido,00:03:21
+18/06/2026 01:18:02,XR-03,Operando,Retorno à Operação,Sistema,Resolvido,00:03:21
+18/06/2026 11:14:07,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 11:14:38,XR-01,Operando,Retorno à Operação,Sistema,Resolvido,00:00:31
+18/06/2026 13:42:46,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 13:43:07,XR-04,Parado,Outro problema de produção,Qualidade,Em atendimento,
+18/06/2026 13:49:58,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 13:55:25,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 13:55:51,XR-04,Parado,Falha mecânica,Manutenção mecânica,Em atendimento,
+18/06/2026 13:55:59,XR-03,Parado,Temperatura elevada,Manutenção mecânica,Alarme Automático,
+18/06/2026 13:56:17,XR-05,Parado,Problema de qualidade,Qualidade,Em atendimento,
+18/06/2026 13:59:08,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 13:59:34,XR-04,Parado,Falta de material,Logística,Em atendimento,
+18/06/2026 13:59:57,XR-05,Parado,Problema de qualidade,Qualidade,Em atendimento,
+18/06/2026 14:03:46,XR-01,Operando,Retorno à Operação,Sistema,Resolvido,00:04:38
+18/06/2026 14:03:48,XR-05,Operando,Retorno à Operação,Sistema,Resolvido,00:03:51
+18/06/2026 14:03:51,XR-04,Operando,Retorno à Operação,Sistema,Resolvido,00:04:17
+18/06/2026 14:11:34,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 14:12:00,XR-02,Parado,Falha mecânica,Manutenção mecânica,Em atendimento,
+18/06/2026 14:12:15,XR-03,Parado,Outro problema de produção,Produção,Em atendimento,
+18/06/2026 14:12:25,XR-01,Operando,Retorno à Operação,Sistema,Resolvido,00:00:51
+18/06/2026 18:18:33,XR-01,Parado,Sensor de segurança acionado,Manutenção elétrica,Em atendimento,
+18/06/2026 18:19:24,XR-03,Parado,Falta de material,Qualidade,Em atendimento,
